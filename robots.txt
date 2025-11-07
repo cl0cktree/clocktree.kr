@@ -1,4 +1,3 @@
-(http://www.clocktree.kr/portfoliomain/robots.txt)
 User-agent: *
 Disallow: /sub/
 Disallow: /data/
